@@ -35,10 +35,10 @@ import (
 	"github.com/gorilla/handlers"
 	"golang.org/x/crypto/acme/autocert"
 
-	"github.com/racingmars/virtual1403/vprinter"
-	"github.com/racingmars/virtual1403/webserver/assets"
-	"github.com/racingmars/virtual1403/webserver/db"
-	"github.com/racingmars/virtual1403/webserver/mailer"
+	"github.com/kimrosebush/virtual1403/vprinter"
+	"github.com/kimrosebush/virtual1403/webserver/assets"
+	"github.com/kimrosebush/virtual1403/webserver/db"
+	"github.com/kimrosebush/virtual1403/webserver/mailer"
 )
 
 type application struct {
