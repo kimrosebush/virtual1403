@@ -1,4 +1,4 @@
-module github.com/racingmars/virtual1403
+module github.com/kimrosebush/virtual1403
 
 go 1.17
 
